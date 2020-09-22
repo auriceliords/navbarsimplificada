@@ -1,5 +1,7 @@
-# navbarsimplificada
-# ESTE PROJETO É PRA AJUDAR PESSOAS QUE TENHA DIFICULDADE 
-# OU QUE NÃO QUEIRA GASTA MUITO TEMPO DESENVOLVENDO UMA NAVBAR RESPONSIVA
-# LINK:https://auriceliords.github.io/navbarsimplificada/
-# FIQUE A VONTADE PARA FAZER DOWNLOADS E OBRIGADO !!!
+
+# Este menu responsivo foi desenvolvido com boostrap, porém simplifiquei para ajudar os iniciantes facilitando assim
+a melhor visão dos codigos 
+ 
+# link:https://auriceliords.github.io/navbarsimplificada/
+
+# Fique a vontade para fazer downloads, obrigado !!!
