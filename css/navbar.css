@@ -1,0 +1,42 @@
+/* estilizazao geral do corp em si body */
+body{
+    font-family: 'Roboto',sans-serif;
+}
+.row{
+    margin: 0;
+}
+.container{
+    padding: 70px 0;
+}
+p, li {
+    color: #445;
+    font-size: 14px;
+} 
+/* personalização da barra de navegação */
+#logo{
+    width: 50px;
+    height: 50px;
+}
+.logo{
+    color:#445;
+    background: blanchedalmond;
+}
+header, .navbar{
+    background-color: #353d41;  
+}
+.navbar-brand{
+    padding: 0;
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: rgb(245, 17, 169);
+}
+#navbar-links a{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-links{
+    padding:1rem .8rem;
+   
+    
+}
+
