@@ -1,0 +1,5 @@
+# navbarsimplificada
+#ESTE PROJETO É PRA AJUDAR PESSOAS QUE TENHA DIFICULDADE 
+#OU QUE NÃO QUEIRA GASTA MUITO TEMPO DESENVOLVENDO UMA NAVBAR RESPONSIVA
+https://auriceliords.github.io/navbarsimplificada/
+
